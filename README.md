@@ -1,10 +1,10 @@
 # microbit
 ## ELECFREAKS Smart Home Kit 
-[官方文檔](https://elecfreaks.com/learn-en/microbitKit/smart_home_kit/index.html)
+[官方文檔](https://elecfreaks.com/learn-en/microbitKit/smart_home_kit/index.html)  
 ![e088b99f-b343-4e39-a607-145071c7d190 __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/46433848/173605610-6904f3fc-1517-40f7-a3a9-29f90cfbe6af.jpg)
 
 ## smarthon(SMART CITY IOT STARTER KIT FOR MICRO:BIT)  
-[官方文檔.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900716/Handbook.Micro.Bit.IoT.Smart.City.Final.pdf)
+[官方文檔.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900716/Handbook.Micro.Bit.IoT.Smart.City.Final.pdf)  
 ![SS-M003-01-Smarthon-IoTbit-1](https://user-images.githubusercontent.com/46433848/173602793-4d466953-8d55-4d36-8c3e-72ad3ae5a496.jpg)  
 
 
@@ -12,21 +12,21 @@
 **ai模組,iot模組不可以同時一齊用** (可能因為兩個都是輸入模塊)   
 [CocoBlockly X 二代上傳插件](https://api.cocorobo.hk/releases/pythonuploaderv1.0.17/download/windows)  
 [模組介紹](https://cocorobo.hk/product)  
-[編程網址](https://x.cocorobo.hk/?lang=en)
+[編程網址](https://x.cocorobo.hk/?lang=en)  
 ## iot
 
 ## ai
 
 # huskylens  
 [官方文檔](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336)  
-![image](https://user-images.githubusercontent.com/46433848/173591895-ef17a82a-8ee3-4858-8743-f339ae945d40.png)
-![image](https://user-images.githubusercontent.com/46433848/173592005-a5b86fa3-4d6f-40e7-807b-75c5fd1b3f9d.png)
+![image](https://user-images.githubusercontent.com/46433848/173591895-ef17a82a-8ee3-4858-8743-f339ae945d40.png)  
+![image](https://user-images.githubusercontent.com/46433848/173592005-a5b86fa3-4d6f-40e7-807b-75c5fd1b3f9d.png)  
 
 
 # Raspberry Pi
 ## Google Teachable Machine＋Raspberry Pi  
 Google Teachable Machine 匯出文件類型:  
-1.安裝CMake(配置安裝OpenCV)，GCC(編譯):
+1.安裝CMake(配置安裝OpenCV)，GCC(編譯):  
 ```
 $ sudo apt-get install cmake
 $ sudo apt-get install gcc g++
@@ -92,8 +92,8 @@ $ cd converted_tflite_quantized/
 [https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-1-cn](https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-1-cn)  
 [https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html](https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html)  
 # 活動/比賽
-## 2019-2020JSSE
+## 2019-2020JSSE  
 [2019-2020JSSE_code.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900341/2019-2020JSSE_code.zip)  
 
 ## 21-22EdUHK Idea Contest
-[模型設計圖.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900539/System.Auto-save.Untitled20220505182022.zip)
+[模型設計圖.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900539/System.Auto-save.Untitled20220505182022.zip)  
