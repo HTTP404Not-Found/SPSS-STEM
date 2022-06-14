@@ -1,3 +1,9 @@
+# huskylens
+[官方文檔](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336)
+![image](https://user-images.githubusercontent.com/46433848/173591895-ef17a82a-8ee3-4858-8743-f339ae945d40.png)
+![image](https://user-images.githubusercontent.com/46433848/173592005-a5b86fa3-4d6f-40e7-807b-75c5fd1b3f9d.png)
+
+
 
 # Google Teachable Machine＋Raspberry Pi
 Google Teachable Machine 匯出文件類型:
