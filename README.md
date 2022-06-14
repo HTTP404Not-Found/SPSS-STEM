@@ -1,5 +1,6 @@
 # microbit
 ## smarthon
+
 # huskylens  
 [官方文檔](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336)  
 ![image](https://user-images.githubusercontent.com/46433848/173591895-ef17a82a-8ee3-4858-8743-f339ae945d40.png)
@@ -77,3 +78,6 @@ $ cd converted_tflite_quantized/
 
 # 2019-2020JSSE
 [2019-2020JSSE_code.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900341/2019-2020JSSE_code.zip)  
+
+# 21-22EdUHK Idea Contest
+[模型設計圖.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900539/System.Auto-save.Untitled20220505182022.zip)
