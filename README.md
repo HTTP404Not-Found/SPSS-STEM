@@ -62,7 +62,7 @@ $ cd converted_tflite_quantized/
 / converted_tflite_quantized $ python3 TM2_tflite.py --model model.tflite --labels labels.txt
 ```
 相關文章參考:
-[https://www.tensorflow.org/lite/guide/python  ](https://www.tensorflow.org/lite/guide/python)
+[TensorFlow](https://www.tensorflow.org/lite/guide/python)
 [https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/)
 [https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-1-cn](https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-1-cn)
 [https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html](https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html)
