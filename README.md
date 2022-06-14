@@ -8,7 +8,9 @@
 [官方文檔.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900716/Handbook.Micro.Bit.IoT.Smart.City.Final.pdf)  
 ![SS-M003-01-Smarthon-IoTbit-1](https://user-images.githubusercontent.com/46433848/173602793-4d466953-8d55-4d36-8c3e-72ad3ae5a496.jpg)  
 
-
+## micro Servo
+[官方文檔](https://components101.com/motors/servo-motor-basics-pinout-datasheet)
+[micro:bit](https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit)
 # cocorobo
 **ai模組,iot模組不可以同時一齊用** (可能因為兩個都是輸入模塊)   
 [CocoBlockly X 二代上傳插件](https://api.cocorobo.hk/releases/pythonuploaderv1.0.17/download/windows)  
