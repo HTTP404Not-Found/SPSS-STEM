@@ -93,7 +93,7 @@ $ cd converted_tflite_quantized/
 [https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html](https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html)  
 # 活動/比賽
 ## 2019-2020JSSE  
-[2019-2020JSSE_code.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900341/2019-2020JSSE_code.zip)  
+mind+ 開啟文件 [2019-2020JSSE_code.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900341/2019-2020JSSE_code.zip)  
 
 ## 21-22EdUHK Idea Contest
 [模型設計圖.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900539/System.Auto-save.Untitled20220505182022.zip)  
