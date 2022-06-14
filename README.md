@@ -1,5 +1,5 @@
-# SPSS-STEM
-Google Teachable Machine＋Raspberry Pi
+
+# Google Teachable Machine＋Raspberry Pi
 Google Teachable Machine 匯出文件類型:
 1.安裝CMake(配置安裝OpenCV)，GCC(編譯):
 ```
