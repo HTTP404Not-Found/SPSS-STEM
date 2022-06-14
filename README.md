@@ -75,9 +75,9 @@ $ cd converted_tflite_quantized/
 [https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/](https://www.pyimagesearch.com/2018/09/26/install-opencv-4-on-your-raspberry-pi/)  
 [https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-1-cn](https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-1-cn)  
 [https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html](https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html)  
-
-# 2019-2020JSSE
+# 活動/比賽
+## 2019-2020JSSE
 [2019-2020JSSE_code.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900341/2019-2020JSSE_code.zip)  
 
-# 21-22EdUHK Idea Contest
+## 21-22EdUHK Idea Contest
 [模型設計圖.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900539/System.Auto-save.Untitled20220505182022.zip)
