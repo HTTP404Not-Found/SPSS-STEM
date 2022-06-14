@@ -73,5 +73,5 @@ $ cd converted_tflite_quantized/
 [https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-1-cn](https://www.rs-online.com/designspark/google-teachable-machine-raspberry-pi-4-1-cn)
 [https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html](https://docs.opencv.org/4.5.2/d2/de6/tutorial_py_setup_in_ubuntu.html)
 
-#2019-2020JSSE
+# 2019-2020JSSE
 [2019-2020JSSE_code.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900341/2019-2020JSSE_code.zip)
