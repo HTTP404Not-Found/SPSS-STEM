@@ -1,15 +1,18 @@
 # microbit
-## ELECFREAKS Smart Home Kit [官方文檔](https://elecfreaks.com/learn-en/microbitKit/smart_home_kit/index.html)
+## ELECFREAKS Smart Home Kit 
+[官方文檔](https://elecfreaks.com/learn-en/microbitKit/smart_home_kit/index.html)
 ![e088b99f-b343-4e39-a607-145071c7d190 __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/46433848/173605610-6904f3fc-1517-40f7-a3a9-29f90cfbe6af.jpg)
 
-## smarthon(SMART CITY IOT STARTER KIT FOR MICRO:BIT)[官方文檔.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900716/Handbook.Micro.Bit.IoT.Smart.City.Final.pdf)
+## smarthon(SMART CITY IOT STARTER KIT FOR MICRO:BIT)  
+[官方文檔.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900716/Handbook.Micro.Bit.IoT.Smart.City.Final.pdf)
 ![SS-M003-01-Smarthon-IoTbit-1](https://user-images.githubusercontent.com/46433848/173602793-4d466953-8d55-4d36-8c3e-72ad3ae5a496.jpg)  
 
 
 # cocorobo
-**ai模組,iot模組不可以同時一齊用**  
-[CocoBlockly X 二代上傳插件](https://api.cocorobo.hk/releases/pythonuploaderv1.0.17/download/windows)
-
+**ai模組,iot模組不可以同時一齊用** (可能因為兩個都是輸入模塊)   
+[CocoBlockly X 二代上傳插件](https://api.cocorobo.hk/releases/pythonuploaderv1.0.17/download/windows)  
+[模組介紹](https://cocorobo.hk/product)  
+[編程網址](https://x.cocorobo.hk/?lang=en)
 ## iot
 
 ## ai
