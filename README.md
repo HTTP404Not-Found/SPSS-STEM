@@ -1,6 +1,9 @@
 # microbit
 ## smarthon
-
+SMART CITY IOT STARTER KIT FOR MICRO:BIT  
+主要玩IoT  
+![image](https://user-images.githubusercontent.com/46433848/173601369-60548982-5d26-4708-98e5-73af6da11e49.png)
+![image](https://user-images.githubusercontent.com/46433848/173601528-605801c2-4076-4add-a4b4-26ce6f8dc2bd.png)
 # huskylens  
 [官方文檔](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336)  
 ![image](https://user-images.githubusercontent.com/46433848/173591895-ef17a82a-8ee3-4858-8743-f339ae945d40.png)
