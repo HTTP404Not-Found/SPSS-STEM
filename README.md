@@ -8,8 +8,10 @@
 
 # cocorobo
 **ai模組,iot模組不可以同時一齊用**  
+[CocoBlockly X 二代上傳插件](https://api.cocorobo.hk/releases/pythonuploaderv1.0.17/download/windows)
 
 ## iot
+
 ## ai
 
 # huskylens  
