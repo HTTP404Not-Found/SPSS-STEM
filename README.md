@@ -5,7 +5,8 @@
 
 ## smarthon(SMART CITY IOT STARTER KIT FOR MICRO:BIT)  
 顯示器好脆弱..   
-[官方文檔.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900716/Handbook.Micro.Bit.IoT.Smart.City.Final.pdf)  
+[官方文檔](https://smarthon-docs-en.readthedocs.io/en/latest/smartcity/2_IOTbit.html)
+[官方教學.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900716/Handbook.Micro.Bit.IoT.Smart.City.Final.pdf)  
 ![SS-M003-01-Smarthon-IoTbit-1](https://user-images.githubusercontent.com/46433848/173602793-4d466953-8d55-4d36-8c3e-72ad3ae5a496.jpg)  
 
 ## micro Servo
