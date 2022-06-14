@@ -1,16 +1,25 @@
 # microbit
-## smarthon
-SMART CITY IOT STARTER KIT FOR MICRO:BIT  
-主要玩IoT  
-![image](https://user-images.githubusercontent.com/46433848/173601832-101f4d0d-432f-4273-bab4-d4b302ceb04f.png)
+## ELECFREAKS Smart Home Kit [官方文檔](https://elecfreaks.com/learn-en/microbitKit/smart_home_kit/index.html)
+![e088b99f-b343-4e39-a607-145071c7d190 __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/46433848/173605610-6904f3fc-1517-40f7-a3a9-29f90cfbe6af.jpg)
+
+## smarthon(SMART CITY IOT STARTER KIT FOR MICRO:BIT)[官方文檔.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900716/Handbook.Micro.Bit.IoT.Smart.City.Final.pdf)
+![SS-M003-01-Smarthon-IoTbit-1](https://user-images.githubusercontent.com/46433848/173602793-4d466953-8d55-4d36-8c3e-72ad3ae5a496.jpg)  
+
+
+# cocorobo
+**ai模組,iot模組不可以同時一齊用**  
+
+## iot
+## ai
+
 # huskylens  
 [官方文檔](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336)  
 ![image](https://user-images.githubusercontent.com/46433848/173591895-ef17a82a-8ee3-4858-8743-f339ae945d40.png)
 ![image](https://user-images.githubusercontent.com/46433848/173592005-a5b86fa3-4d6f-40e7-807b-75c5fd1b3f9d.png)
 
 
-
-# Google Teachable Machine＋Raspberry Pi  
+# Raspberry Pi
+## Google Teachable Machine＋Raspberry Pi  
 Google Teachable Machine 匯出文件類型:  
 1.安裝CMake(配置安裝OpenCV)，GCC(編譯):
 ```
