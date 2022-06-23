@@ -1,5 +1,1 @@
 theme: jekyll-theme-leap-day
-.. toctree::
-    :maxdepth: 1
-
-    README.md
