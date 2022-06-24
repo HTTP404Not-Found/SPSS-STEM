@@ -53,6 +53,26 @@ Micro: bit位接口：9（P0 P1 P2 P8 P12 P13 P14 P15 P16）
 在這些傳感器的幫助下，該套件可用於檢測您家中的溫度、濕度和可燃氣體的濃度以及打開和關閉門。此外，所有檢測到的信息都可以實時顯示在1602 LCD上，供您通過智能手機或iPad查看和監控。順便說一句，它支持太陽能或USB線供電。
 本教程將指導您通過在線圖形化編程平台Makecode中編寫的代碼來製作和控制智能家居套件。在這個過程中，你不僅可以增強自己的製作能力，還可以學習編程技能。
 MakeCode for micro:bit 是 micro:bit 官網上使用最廣泛的圖形化編程環境。它基於微軟開源項目MakeCode開發的圖形化編程環境。這種圖形編程也可以轉換為文本版本，即 Python 或 JavaScript。代碼和圖形的結合使得它非常方便易學。同時可以對電子元件進行仿真或編程。
+
+|Module	|Quantity|	Remark|
+|--|--|--|--
+|micro:bit	|1	|Option|
+|3V sensor:bit	|1	|-|
+|OLED Screen|	1|	-|
+|Crash E-Blocks|	1|	-|
+|TMP36 temperature sensor E-Blocks	|1|	-
+|Rainbow LED E-Blocks|	1|	-
+|Simulation noise sensor E-Blocks|	1	|-
+|Light sensor E-Blocks	|1	-
+|Soil moisture sensor E-Blocks|	1|	-
+|Relay E-Blocks	|1|	-
+|DC motor E-Blocks	|1	|-
+|180° servo E-Blocks	|1	|-
+|Submersible pump E-Blocks|	1	|-
+|Screw driver	|1|	-
+|USB Cable	|1	|-
+|Crystal Battery Box	|1|	-
+|Smart home kit manual book	|1|	-
 #### 安裝示範  
  https://user-images.githubusercontent.com/46433848/175315615-292b1c00-491d-4591-bb48-acf0e1f76551.mp4  
 #### 套件清單    
