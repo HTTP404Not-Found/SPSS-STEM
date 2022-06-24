@@ -160,6 +160,7 @@ mind+ 開啟文件
 [模型設計圖.zip](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8900539/System.Auto-save.Untitled20220505182022.zip)  
 
 ## 模型
-https://makecode.microbit.org/_h1eEYq3K8Xbz
-![](https://github.com/http404not-found/model_door/raw/master/.github/makecode/blocks.png)
+![https://github.com/HTTP404Not-Found/model_door](https://github.com/http404not-found/model_door/raw/master/.github/makecode/blocks.png)
 https://github.com/HTTP404Not-Found/model_door
+![https://github.com/HTTP404Not-Found/model_master](https://github.com/http404not-found/model_master/raw/master/.github/makecode/blocks.png)
+https://github.com/HTTP404Not-Found/model_master
