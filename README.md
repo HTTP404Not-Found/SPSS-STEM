@@ -161,3 +161,5 @@ mind+ 開啟文件
 
 ## 模型
 https://makecode.microbit.org/_h1eEYq3K8Xbz
+![](https://github.com/http404not-found/model_door/raw/master/.github/makecode/blocks.png)
+https://github.com/HTTP404Not-Found/model_door
