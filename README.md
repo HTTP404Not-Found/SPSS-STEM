@@ -22,14 +22,16 @@
 ### DFR0548
 ![DFR0548](https://user-images.githubusercontent.com/46433848/173891521-79eb9c3d-32c1-4247-b4fb-9fe15a7ffcfc.jpg)  
 [官方文檔](https://wiki.dfrobot.com/Micro_bit_Driver_Expansion_Board_SKU_DFR0548)  
+
 #### 規格  
+
 供電電壓：3.5~5.5V DC  
 數字輸出電壓：0V / 3.3V  
 模擬輸出電壓：0~3.3V DC  
 標準重力界面  
 Micro: bit位接口：9（P0 P1 P2 P8 P12 P13 P14 P15 P16）  
 伺服接口 x 8  
-電機接口：直流電機(DC motor) x 4 / 步進電機(Step motor) x 2。  
+電機接口：直流電機(DC motor) x 4 / 步進電機(Step motor) x 2  
 尺寸：63x58mm / 2.48x2.28in  
 
 ### sensor :bit  
