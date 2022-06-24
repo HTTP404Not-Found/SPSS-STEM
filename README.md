@@ -24,7 +24,6 @@
 [官方文檔](https://wiki.dfrobot.com/Micro_bit_Driver_Expansion_Board_SKU_DFR0548)  
 
 #### 規格  
-
 供電電壓：3.5~5.5V DC  
 數字輸出電壓：0V / 3.3V  
 模擬輸出電壓：0~3.3V DC  
