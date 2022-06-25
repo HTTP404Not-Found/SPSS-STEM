@@ -65,7 +65,8 @@ https://github.com/HTTP404Not-Found/SPSS-STEM/files/8984746/KS4027.KS4028.Microb
 ![QQ图片20211105154853](https://user-images.githubusercontent.com/46433848/175312968-61b52c08-da8b-4d02-aeae-3ee8e68581d3.png)  
 ![QQ图片20211105154904](https://user-images.githubusercontent.com/46433848/175312943-974a3d33-80e3-40d0-8de4-f059e0c39cbe.png)  
 ![QQ图片2021110515495](https://user-images.githubusercontent.com/46433848/175313007-9fbf2987-f3f5-4721-bba2-a53f84fc222b.png)  
-
+#### 其他文件
+https://www.dropbox.com/sh/6wx2nwn9r1egzj4/AACBGpBS_b2wdPorYVZu5zf5a?dl=0
 ## 模組
 ### micro Servo
 [官方文檔](https://components101.com/motors/servo-motor-basics-pinout-datasheet)
