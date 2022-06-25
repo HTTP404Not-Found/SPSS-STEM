@@ -55,7 +55,7 @@ Micro: bit位接口：9（P0 P1 P2 P8 P12 P13 P14 P15 P16）
 MakeCode for micro:bit 是 micro:bit 官網上使用最廣泛的圖形化編程環境。它基於微軟開源項目MakeCode開發的圖形化編程環境。這種圖形編程也可以轉換為文本版本，即 Python 或 JavaScript。代碼和圖形的結合使得它非常方便易學。同時可以對電子元件進行仿真或編程。
 
 #### 安裝示範  
-[KS4027 (KS4028)Microbit Smart Home.pdf](https://github.com/HTTP404Not-Found/SPSS-STEM/files/8984725/KS4027.KS4028.Microbit.Smart.Home.pdf)
+https://github.com/HTTP404Not-Found/SPSS-STEM/files/8984746/KS4027.KS4028.Microbit.Smart.Home.pdf
 
  https://user-images.githubusercontent.com/46433848/175315615-292b1c00-491d-4591-bb48-acf0e1f76551.mp4  
 #### 套件清單    
