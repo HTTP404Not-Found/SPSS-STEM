@@ -18,6 +18,7 @@
 ## ai
 
 # microbit
+[MakeCode Offline App](https://github.com/HTTP404Not-Found/SPSS-STEM/releases/tag/v2)
 ## 擴展板  
 ### DFR0548
 ![2326d11ef033b56ba7d615eb724975e6](https://user-images.githubusercontent.com/46433848/180420256-5759f893-5d19-4fe9-aa0f-39a5f80457ba.png)
