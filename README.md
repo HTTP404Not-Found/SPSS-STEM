@@ -16,12 +16,13 @@
 ## iot
 
 ## ai
-# microbit
 
+# microbit
 ## 擴展板  
 ### DFR0548
-![DFR0548](https://user-images.githubusercontent.com/46433848/173891521-79eb9c3d-32c1-4247-b4fb-9fe15a7ffcfc.jpg)  
-[download](https://mindplus.cc/download-en.html)
+![2326d11ef033b56ba7d615eb724975e6](https://user-images.githubusercontent.com/46433848/180420256-5759f893-5d19-4fe9-aa0f-39a5f80457ba.png)
+
+請使用[mindplus](https://mindplus.cc/download-en.html)進行編程
 
 #### 規格  
 供電電壓：3.5~5.5V DC  
@@ -32,13 +33,16 @@ Micro: bit位接口：9（P0 P1 P2 P8 P12 P13 P14 P15 P16）
 伺服接口 x 8  
 電機接口：直流電機(DC motor) x 4 / 步進電機(Step motor) x 2  
 尺寸：63x58mm / 2.48x2.28in  
-
 [官方文檔](https://wiki.dfrobot.com/Micro_bit_Driver_Expansion_Board_SKU_DFR0548)  
+
 ### sensor :bit  
+
 [官方文檔](https://elecfreaks.com/learn-en/microbitKit/smart_home_kit/index.html)  
 ![e088b99f-b343-4e39-a607-145071c7d190 __CR0,0,970,600_PT0_SX970_V1___](https://user-images.githubusercontent.com/46433848/173605610-6904f3fc-1517-40f7-a3a9-29f90cfbe6af.jpg)
 
 (https://makecode.microbit.org/_LcaXpCJHedYK)
+
+You can see the whole program from the link here: [https://makecode.microbit.org/_3At2iE5Ue3XK](https://makecode.microbit.org/_3At2iE5Ue3XK)
 
 ### smarthon  
 (SMART CITY IOT STARTER KIT FOR MICRO:BIT)   
